@@ -5,4 +5,4 @@ this is my second
 
 this is for creating branch
 
-This is master branch
+This is child branch
